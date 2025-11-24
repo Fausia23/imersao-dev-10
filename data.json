@@ -1,0 +1,337 @@
+[
+{
+  "nome": "Javascript" ,
+  "descricao":"O Javascript é uma linguagem de programação usada para criar conteúdo dinâmico em páginas web." ,
+  "ano": "1995",
+  "criador": "Brendan Eich",
+  "link": "https://pt.wikipedia.org/wiki/JavaScript"
+
+},
+{
+  "nome": "HTML" ,   
+  "descricao":"HTML é a sigla para HyperText Markup Language (Linguagem de Marcação de Hipertexto). É a linguagem padrão utilizada na construção de páginas na web." ,
+  "ano": "1991",
+  "criador": "Tim Berners-Lee",
+  "link": "https://pt.wikipedia.org/wiki/HTML"
+
+},
+{
+  "nome": "CSS" ,   
+  "descricao":"CSS é a sigla para Cascading Style Sheets (Folhas de Estilo em Cascata). É uma linguagem usada para descrever a apresentação de documentos HTML e XML na web." ,
+  "ano": "1996",
+  "criador": "Håkon Wium Lie",
+  "link": "https://pt.wikipedia.org/wiki/Cascading_Style_Sheets"  
+},
+{
+"nome": "Python" ,   
+  "descricao":"Python é uma linguagem de programação de alto nível, interpretada e de propósito geral, conhecida por sua sintaxe clara e legibilidade." ,
+  "ano": "1991",
+  "criador": "Guido van Rossum",
+  "link": "https://pt.wikipedia.org/wiki/Python_(linguagem_de_programa%C3%A7%C3%A3o)"  
+} ,
+
+
+
+
+  {
+    "nome": "TypeScript",
+    "descricao": "Um superconjunto de JavaScript que adiciona tipagem estática opcional.",
+    "data_criacao": "2012",
+    "link": "https://www.typescriptlang.org/",
+    "tags": [
+      "linguagem de programação",
+      "frontend",
+      "backend",
+      "desenvolvimento web"
+    ]
+  },
+  {
+    "nome": "React",
+    "descricao": "Uma biblioteca JavaScript para construir interfaces de usuário, mantida pelo Facebook.",
+    "data_criacao": "2013",
+    "link": "https://reactjs.org/",
+    "tags": [
+      "frontend",
+      "biblioteca",
+      "javascript",
+      "ui"
+    ]
+  },
+  {
+    "nome": "Vue.js",
+    "descricao": "Um framework progressivo de JavaScript para construir interfaces de usuário.",
+    "data_criacao": "2014",
+    "link": "https://vuejs.org/",
+    "tags": [
+      "frontend",
+      "framework",
+      "javascript",
+      "ui"
+    ]
+  },
+  {
+    "nome": "Angular",
+    "descricao": "Uma plataforma e framework para construir aplicações de página única (SPAs) em HTML e TypeScript.",
+    "data_criacao": "2016",
+    "link": "https://angular.io/",
+    "tags": [
+      "frontend",
+      "framework",
+      "typescript",
+      "spa"
+    ]
+  },
+  {
+    "nome": "Node.js",
+    "descricao": "Um ambiente de execução JavaScript do lado do servidor, construído no motor V8 do Chrome.",
+    "data_criacao": "2009",
+    "link": "https://nodejs.org/",
+    "tags": [
+      "backend",
+      "javascript",
+      "runtime",
+      "servidor"
+    ]
+  },
+  {
+    "nome": "Express.js",
+    "descricao": "Um framework de aplicação web para Node.js, projetado para construir APIs e aplicações web robustas.",
+    "data_criacao": "2010",
+    "link": "https://expressjs.com/",
+    "tags": [
+      "backend",
+      "framework",
+      "nodejs",
+      "api"
+    ]
+  },
+  {
+    "nome": "MongoDB",
+    "descricao": "Um banco de dados NoSQL orientado a documentos, que armazena dados em documentos do tipo JSON.",
+    "data_criacao": "2009",
+    "link": "https://www.mongodb.com/",
+    "tags": [
+      "banco de dados",
+      "nosql",
+      "documentos",
+      "backend"
+    ]
+  },
+  {
+    "nome": "PostgreSQL",
+    "descricao": "Um poderoso sistema de banco de dados relacional de código aberto com mais de 30 anos de desenvolvimento ativo.",
+    "data_criacao": "1996",
+    "link": "https://www.postgresql.org/",
+    "tags": [
+      "banco de dados",
+      "sql",
+      "relacional",
+      "backend"
+    ]
+  },
+  {
+    "nome": "Docker",
+    "descricao": "Uma plataforma para desenvolver, enviar e executar aplicações em contêineres.",
+    "data_criacao": "2013",
+    "link": "https://www.docker.com/",
+    "tags": [
+      "devops",
+      "container",
+      "virtualização",
+      "infraestrutura"
+    ]
+  },
+  {
+    "nome": "Kubernetes",
+    "descricao": "Um sistema de orquestração de contêineres de código aberto para automatizar a implantação, o dimensionamento e o gerenciamento de aplicações.",
+    "data_criacao": "2014",
+    "link": "https://kubernetes.io/",
+    "tags": [
+      "devops",
+      "orquestração",
+      "container",
+      "infraestrutura"
+    ]
+  },
+  {
+    "nome": "Git",
+    "descricao": "Um sistema de controle de versão distribuído, gratuito e de código aberto, projetado para lidar com tudo, desde projetos pequenos a muito grandes.",
+    "data_criacao": "2005",
+    "link": "https://git-scm.com/",
+    "tags": [
+      "controle de versão",
+      "ferramenta",
+      "desenvolvimento",
+      "código-fonte"
+    ]
+  },
+  {
+    "nome": "GraphQL",
+    "descricao": "Uma linguagem de consulta para APIs e um tempo de execução para atender a essas consultas com seus dados existentes.",
+    "data_criacao": "2015",
+    "link": "https://graphql.org/",
+    "tags": [
+      "api",
+      "linguagem de consulta",
+      "backend",
+      "frontend"
+    ]
+  },
+  {
+    "nome": "Rust",
+    "descricao": "Uma linguagem de programação de sistemas focada em segurança, velocidade e concorrência.",
+    "data_criacao": "2015",
+    "link": "https://www.rust-lang.org/",
+    "tags": [
+      "linguagem de programação",
+      "sistemas",
+      "performance",
+      "segurança"
+    ]
+  },
+  {
+    "nome": "Go",
+    "descricao": "Uma linguagem de programação de código aberto que facilita a criação de software simples, confiável e eficiente.",
+    "data_criacao": "2009",
+    "link": "https://golang.org/",
+    "tags": [
+      "linguagem de programação",
+      "backend",
+      "concorrência",
+      "google"
+    ]
+  },
+  {
+    "nome": "Kotlin",
+    "descricao": "Uma linguagem de programação moderna e estaticamente tipada usada para desenvolvimento Android, backend e muito mais.",
+    "data_criacao": "2011",
+    "link": "https://kotlinlang.org/",
+    "tags": [
+      "linguagem de programação",
+      "android",
+      "backend",
+      "jvm"
+    ]
+  },
+  {
+    "nome": "Swift",
+    "descricao": "Uma linguagem de programação poderosa e intuitiva para macOS, iOS, watchOS e tvOS.",
+    "data_criacao": "2014",
+    "link": "https://developer.apple.com/swift/",
+    "tags": [
+      "linguagem de programação",
+      "ios",
+      "mobile",
+      "apple"
+    ]
+  },
+  {
+    "nome": "Django",
+    "descricao": "Um framework web de alto nível em Python que incentiva o desenvolvimento rápido e o design limpo e pragmático.",
+    "data_criacao": "2005",
+    "link": "https://www.djangoproject.com/",
+    "tags": [
+      "backend",
+      "framework",
+      "python",
+      "web"
+    ]
+  },
+  {
+    "nome": "Flask",
+    "descricao": "Um microframework para Python baseado em Werkzeug, Jinja 2 e boas intenções.",
+    "data_criacao": "2010",
+    "link": "https://flask.palletsprojects.com/",
+    "tags": [
+      "backend",
+      "microframework",
+      "python",
+      "web"
+    ]
+  },
+  {
+    "nome": "Terraform",
+    "descricao": "Uma ferramenta de infraestrutura como código que permite definir recursos de nuvem e locais em arquivos de configuração legíveis por humanos.",
+    "data_criacao": "2014",
+    "link": "https://www.terraform.io/",
+    "tags": [
+      "devops",
+      "iac",
+      "infraestrutura",
+      "automação"
+    ]
+  },
+  {
+    "nome": "Ansible",
+    "descricao": "Uma ferramenta de automação de TI que automatiza o provisionamento de nuvem, gerenciamento de configuração, implantação de aplicativos e orquestração.",
+    "data_criacao": "2012",
+    "link": "https://www.ansible.com/",
+    "tags": [
+      "devops",
+      "automação",
+      "gerenciamento de configuração",
+      "infraestrutura"
+    ]
+  },
+  {
+    "nome": "Jest",
+    "descricao": "Um framework de teste de JavaScript com foco na simplicidade.",
+    "data_criacao": "2014",
+    "link": "https://jestjs.io/",
+    "tags": [
+      "teste",
+      "javascript",
+      "framework",
+      "frontend"
+    ]
+  },
+  {
+    "nome": "Next.js",
+    "descricao": "Um framework React para produção que permite renderização do lado do servidor e geração de sites estáticos.",
+    "data_criacao": "2016",
+    "link": "https://nextjs.org/",
+    "tags": [
+      "frontend",
+      "framework",
+      "react",
+      "ssr"
+    ]
+  },
+  {
+    "nome": "Svelte",
+    "descricao": "Uma nova abordagem para construir interfaces de usuário, onde o trabalho é feito em tempo de compilação em vez de no navegador.",
+    "data_criacao": "2016",
+    "link": "https://svelte.dev/",
+    "tags": [
+      "frontend",
+      "framework",
+      "javascript",
+      "compilador"
+    ]
+  },
+  {
+    "nome": "Flutter",
+    "descricao": "O kit de ferramentas de UI do Google para criar aplicativos bonitos e compilados nativamente para celular, web e desktop a partir de uma única base de código.",
+    "data_criacao": "2017",
+    "link": "https://flutter.dev/",
+    "tags": [
+      "mobile",
+      "framework",
+      "dart",
+      "multiplataforma"
+    ]
+  },
+  {
+    "nome": "FastAPI",
+    "descricao": "Um framework web moderno e rápido (de alto desempenho) para construir APIs com Python 3.7+ baseado em type hints padrão do Python.",
+    "data_criacao": "2018",
+    "link": "https://fastapi.tiangolo.com/",
+    "tags": [
+      "backend",
+      "framework",
+      "python",
+      "api"
+    ]
+  }
+]
+
